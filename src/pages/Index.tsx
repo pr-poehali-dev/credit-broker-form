@@ -166,21 +166,21 @@ const Index = () => {
                   <Icon name="MapPin" size={20} className="text-accent mt-1" />
                   <div>
                     <p className="font-semibold text-slate-700">Адрес</p>
-                    <p className="text-slate-600">г. Москва, ул. Тверская, д. 15, офис 301</p>
+                    <p className="text-slate-600">г. Москва, ул. Заречная, д. 9, офис 301</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Icon name="Phone" size={20} className="text-accent mt-1" />
                   <div>
                     <p className="font-semibold text-slate-700">Телефон</p>
-                    <p className="text-slate-600">+7 (495) 123-45-67</p>
+                    <p className="text-slate-600">8 499 322 83 85</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Icon name="Mail" size={20} className="text-accent mt-1" />
                   <div>
                     <p className="font-semibold text-slate-700">Email</p>
-                    <p className="text-slate-600">info@credit-bureau.ru</p>
+                    <p className="text-slate-600">melnikov@bkr-credit.ru</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
